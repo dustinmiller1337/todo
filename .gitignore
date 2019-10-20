@@ -1,2 +1,5 @@
 *.db
 todo
+go.mod
+go.sum
+rice-box.go
