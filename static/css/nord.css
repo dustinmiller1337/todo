@@ -772,7 +772,7 @@ abbr[title] {
   appearance: none;
   background: #fff;
   background-image: none;
-  border: .1rem solid #c4c9d3;
+  border: .1rem solid #e5e9f0;
   border-radius: .2rem;
   color: #50596c;
   display: block;
@@ -787,7 +787,7 @@ abbr[title] {
   width: 100%;
 }
 .form-input:focus {
-  border-color: #5764c6;
+  border-color: #333;
   box-shadow: 0 0 0 .2rem rgba(87, 100, 198, .15);
 }
 .form-input::-webkit-input-placeholder {
